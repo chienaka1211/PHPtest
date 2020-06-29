@@ -1,0 +1,10 @@
+create database test
+
+use test
+ create table
+(
+id int(11) primary key auto_increment,
+first_name varchar(30),
+surname varchar(30),
+email varchar(255),
+)

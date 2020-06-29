@@ -1,0 +1,10 @@
+Hướng Dẫn sử dụng các tính năng:
+
+	
+Tính năng nhập và lưu lại thông tin:
+Bước 1: tại trang chủ ấn vào nút  nhập thông tin
+Bước 2: nhập thông tin và ấn nút lưu thông tin.
+
+Tính năng tìm kiếm thông tin:
+Bước 1:tại trang chủ ấn nút tìm kiếm
+Bước 2: nhập thông tin cần tìm vào ô tìm kiếm sau đó ấn tìm kiếm.
